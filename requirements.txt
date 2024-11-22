@@ -1,6 +1,9 @@
+# torch==2.5.1+cu121
 torch
-torchsde
 torchvision
+# torch
+torchsde
+# torchvision
 torchaudio
 einops
 transformers>=4.28.1
